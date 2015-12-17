@@ -1,0 +1,28 @@
+name: Michaël Rosmane
+favicon: null
+layout_spectrum: 0.41545091778971255
+typography_spectrum: 0.36885873414576054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.12482130923308432
+  lightness: 0.8819616397377104
+  saturation: 0.05347584537230432
+  rhythmicContrast: 0.244702713098377
+purpose: []
